@@ -5,5 +5,5 @@ go 1.19
 require google.golang.org/protobuf v1.28.1
 
 retract (
-	v0.2.2
+	v0.2.3
 )
