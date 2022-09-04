@@ -6,4 +6,5 @@ func Hh() {
 
 func Ho() {
 	println("Oh,my god.")
+	Hh()
 }
